@@ -2,7 +2,7 @@ require 'net/http'
 require 'net/https'
 require 'nokogiri'
 
-application_token = "a73ipecz32rbuko1pzr31xgmu1qk3m"
+application_token = "amvpvyj4r8zadohryj1vo9hdy5ag5s"
 user_token = "upf2r6nfm715addg9h9a58uu1rqfxp"
 
 def get_availability_ssl(crn, term)
